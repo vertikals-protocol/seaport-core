@@ -14,3 +14,9 @@ docs/
 .env
 
 .DS_Store
+
+node_modules/
+typechain-types/
+artifacts/
+hardhat-cache/
+hh-cache/
