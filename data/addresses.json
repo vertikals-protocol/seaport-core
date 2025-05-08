@@ -1,0 +1,14 @@
+{
+  "zeta_testnet": {
+    "ConduitController": "0xde4Ad35DF298336F73220401AD5BEd03CE954813",
+    "Seaport": "0x51E43d2c542f208da5684AC6049d8857f85f9955"
+  },
+  "zeta_mainnet": {
+    "ConduitController": "",
+    "Seaport": ""
+  },
+  "sepolia": {
+    "ConduitController": "0x15309c0614467174B4eb41F146fA54E5806713Ca",
+    "Seaport": "0xdF845D92E72D10A0DB0281021c5f1c7f15243d7d"
+  }
+}
